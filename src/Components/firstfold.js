@@ -27,7 +27,6 @@ class Firstfold extends React.Component {
         {heading:"Chapter 3",descp:"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun",image:aboutpic3,top:"313px",margintop:"100px"},
         {heading:"Chapter 4",descp:"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun",image:aboutpic4,top:"368px",margintop:"100px"}
         ]
-
         
     };
     render() {
