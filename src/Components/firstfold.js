@@ -39,6 +39,7 @@ class Firstfold extends React.Component {
           <span className='tagline'>{this.state.tagline}</span>
            <Requirementsform />
           </div>
+          
           <div className='container' id='explorediv'>
             <div style={{fontWeight: "bold",fontSize:"64px",}}>Explore</div>
             <div style={{fontSize: "18px",fontFamily: "monospace"}}>From one-guest rooms to</div>
